@@ -1,0 +1,10 @@
+{
+  "name": "gerador-declaracao-hospedagem",
+  "version": "1.0.0",
+  "description": "API para gerar declarações de responsabilidade",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
